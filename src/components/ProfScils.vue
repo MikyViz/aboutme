@@ -1,21 +1,4 @@
 <template>
-    <!-- <v-carousel show-arrows="hover" hide-delimiters>
-        <v-carousel-item v-for="(skill, index) in skills" :key="index">
-            <v-card flat>
-                <v-card-title>{{ skill.title }}</v-card-title>
-
-                <v-card-text>
-                    <v-list>
-                        <v-list-item v-for="(item, i) in skill.items" :key="i">
-                            <v-list-item-content>
-                                <v-list-item-title>{{ item }}</v-list-item-title>
-                            </v-list-item-content>
-                        </v-list-item>
-                    </v-list>
-                </v-card-text>
-            </v-card>
-        </v-carousel-item>
-    </v-carousel> -->
     <v-container>
         <h3>JavaScript</h3>
         <v-carousel show-arrows="hover" hide-delimiters>
@@ -84,31 +67,6 @@
 </template>
 <script setup>
 import { ref } from 'vue';
-
-const skills = ref([]);
-skills.value =
-    [
-        {
-            title: 'Frontend',
-            items: ['HTML', 'CSS', 'Sass/SCSS', 'Vuetify', 'Bootstrap', 'Shadcn UI'],
-        },
-        {
-            title: 'JavaScript',
-            items: ['JavaScript', 'Vue.js'],
-        },
-        {
-            title: 'Mobile',
-            items: ['Flutter', 'Dart'],
-        },
-        {
-            title: 'Backend',
-            items: ['JavaScript', 'Node.js', 'Sequelize DB', 'MySQL'],
-        },
-        {
-            title: 'General',
-            items: ['GitHub', 'Docker']
-        },
-    ]
 
 const JavaScript = ref([
     { name: 'JavaScript', img: 'https://networksynapse.net/wp-content/uploads/2020/11/js-1232x616.png' },
