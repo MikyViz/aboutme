@@ -3,7 +3,7 @@
     <div>
       <h1>Hi theare!!!</h1>
     <h2>Allways glad to see you, on my site!</h2>
-    <h2>Lets meet closer ;)</h2>
+    <h2>Let's hang out!</h2>
     </div>
     <v-avatar
     size="150">

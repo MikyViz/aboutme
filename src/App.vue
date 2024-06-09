@@ -48,11 +48,11 @@ let group = ref(null);
 const routs = ref([]);
 (routs.value = [
   {
-    title: "Nice to meet",
+    title: "Nice to meet you",
     value: "/",
   },
   {
-    title: "Professional scils",
+    title: "Professional skills",
     value: "/about",
   },
   // {

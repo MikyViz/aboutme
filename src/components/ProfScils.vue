@@ -70,7 +70,7 @@ import { ref } from 'vue';
 
 const JavaScript = ref([
     { name: 'JavaScript', img: 'https://networksynapse.net/wp-content/uploads/2020/11/js-1232x616.png' },
-    { name: 'Vue.js', img: 'https://www.kindpng.com/picc/m/452-4529223_vue-js-logo-png-transparent-png.png' }]);
+    { name: 'Vue.js', img: 'https://blog.adroitguru.com/storage/30/conversions/vuejs_logo-cover.jpg' }]);
 const Frontend = ref([
     { name: 'HTML', img: 'https://www.clipartkey.com/mpngs/m/210-2104705_html-logo-png-transparent-background.png' },
     { name: 'CSS', img: "https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.png" },

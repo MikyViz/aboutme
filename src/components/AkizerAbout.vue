@@ -5,8 +5,8 @@
       </v-card-title>
       <v-card-text>
         <v-text >
-          My name is Michael David Vizenovsky, and I am beining FullStack
-          developer.<br />I learned this interesting profession in PROG
+          My name is Michael David Vizenovsky, and I am a FullStack
+          developer.<br />I learned this interesting profession in the PROG
           institute 👉
           <a href="https://www.prog.co.il/" target="_blank"
             >https://www.prog.co.il/</a
