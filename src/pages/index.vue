@@ -1,6 +1,6 @@
 <template>
   <!-- <HelloWorld /> -->
-  <v-row>
+  <v-row class="d-flex justify-center">
     <v-col cols = "12">
       <Wellcome />
     </v-col>
